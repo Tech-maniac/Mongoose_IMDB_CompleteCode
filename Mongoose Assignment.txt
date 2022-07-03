@@ -1,0 +1,6 @@
+Assignment for 3rd July 2022 :-
+
+Create database,collections & documents for a youtube Channel. (For example, collections can be of videos(name, likes, dislikes, views, uploadDate etc), subscribers, youtubers etc)
+1. Perform all the CRUD operations. (along with sorting and selecting)
+2. Add as many validations(Predefined & Custom) as possible.
+3. Add atleast 5 documents for all the collections.
